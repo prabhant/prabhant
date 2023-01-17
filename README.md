@@ -8,7 +8,9 @@ If you are here its probably because you got redirected here through my twitter 
 ### :rocket: Engineer
 
 First and foremost my love from computer science started when i was in my middle school and made/coded my first animation on Flash. Though i am a generalist, my speciality is getting PoCs to an MVP and and MVP to a production ready system. 
-I work on OpenML and multiple commercial EU projects like Staitway2AI and AIonDemand. I am involved in architecture design, schema, deployment and development of ML systems on these platform. 
+I work on OpenML and multiple commercial EU projects like Stairway2AI and AIonDemand. I am involved in architecture design, schema, deployment and development of ML systems on these platform. 
+I have worked on standardization of datasets, models and evaluations. 
+I have developed OpenML BOOST platform for education for biomedical students for ML course. 
 On OpenML I worked on designing the backend and cloud infrastructure. 
 Few engineering tools i use in my day2day:
 - Kubernetes: For cluster management, networking, docker and object storage.
