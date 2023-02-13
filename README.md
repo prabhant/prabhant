@@ -43,7 +43,20 @@ I have given few workshops and taught [Machine Learning Engineering](https://ml-
 Thank you for reading through this profile. I love collaborations, I am especially interested if you have a project which directly contributes positively to society or environment. 
 
 
-
+## Mini Portfolio(chronological)
+* Indicator library: Django API for indicator search.
+* Tola Reports: Dashboards for M&E enterprises
+* AutoAI: AutoML API for financial data
+* OpenML website: Flask API for OpenML backend
+* Dataset 2.0: Next generation dataset formats for future datasets
+* Flow 2.0: Next generation model storage for new ML APIs
+* OpenML K8s: K8s integrtation in OpenML powered by distributed storage from MinIO
+* BOOST Education: Education platform for ML students
+* Online autoML: Automl for datastreams
+* AutoBalance: AutoML for imbalanced data
+* StairwAI: Benchmarking platform for EU ML assets
+* AIonDemand: AI asset Marketplace 
+* LOTUS: AutoML for unsupervised tasks
 
 
 <!--
