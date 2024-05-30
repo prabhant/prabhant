@@ -1,6 +1,7 @@
 ### Hi there, Pleased to meet you👋
 
-If you are here its probably because you got redirected here through my twitter or talks :grin:
+If you are here its probably because you got redirected here through my twitter or talks :grin: or my CV
+
 
 *******
 
@@ -11,21 +12,22 @@ First and foremost my love from computer science started when i was in my middle
 I work on OpenML and multiple commercial EU projects like Stairway2AI and AIonDemand. I am involved in architecture design, schema, deployment and development of ML systems on these platform. 
 I have worked on standardization of datasets, models and evaluations. 
 I have developed OpenML BOOST platform for education for biomedical students for ML course. 
-On OpenML I worked on designing the backend and cloud infrastructure. 
+On OpenML I worked on designing the backend and cloud infrastructure. At Kramphub i am working on creating machine learning platform and creating data science workflows with business.
 Few engineering tools i use in my day2day:
 - Kubernetes: For cluster management, networking, docker and object storage.
 - Python: My goto language for APIs, automation and data engineering.
 - React: involuntarity learnt it, can't say I'm a master of it but can work through JS.
+- DevOps/MLOps: Its a very fast evolving feild but i am trying to keep up with latest news.
 
 
 
 ### 📊 Data scientist/advocate
 
-My job and hobby's entails looking at data and meta data to make tools, data can be used to tell stories and make better decisions. I am a huge advocate for Open Data and Responsible data science. Another reason i love working [@OpenML](https://openml.org). I used to work in TolaData for data science for Monitoring and analytics for different NGOs. Personally I am looking for more opportunity to contribute to data science for soclial good and climate change.
+Currently i work as a data scientist and sotware engineer at KrampHub. My job and hobby's entails looking at data and meta data to make tools, data can be used to tell stories and make better decisions. I am a huge advocate for Open Data and Responsible data science. Another reason i loved working [@OpenML](https://openml.org). I used to work in TolaData for data science for Monitoring and analytics for different NGOs. Personally I am looking for more opportunity to contribute to data science for soclial good and climate change.
 
 #### :man_scientist: Researcher
 
-I work as a research @TU/e and work on multiple research project. I like solving real world problems like Machine learning on Dirty datasets, Imbalanced datasets, explainable machine leanring and Human in the loop AI. I enjoy research topics as well like Meta-learning, dataset similarity, metric leanring, AutoML and Neural architecture search. If you would like to collaborate in any of these topics then feel free to contact me 🙃
+I worked as a researcher @TU/e and work on multiple research project. I like solving real world problems like Machine learning on Dirty datasets, Imbalanced datasets, explainable machine leanring and Human in the loop AI. I enjoy research topics as well like Meta-learning, dataset similarity, metric leanring, AutoML and Neural architecture search. If you would like to collaborate in any of these topics then feel free to contact me 🙃
 My publications can be found on my [Scholar](https://scholar.google.com/citations?user=AGBlKsAAAAAJ&hl=en)
 
 ### 🗣 Communicator
@@ -34,7 +36,7 @@ I write blogs and give talks from time to time. These days you can check some of
 
 ### 🧑‍🤝‍🧑 Community builder
 
-I am used to be part of communities and help building communities everywhere i can. I used to be a part of PyData Delhi, I stated PyData Tartu and PyData Heidelberg as well. Currently I am working on building OpenML community. 
+I am used to be part of communities and help building communities everywhere i can. I used to be a part of PyData Delhi, I stated PyData Tartu and PyData Heidelberg as well. Currently I am working on building OpenML community. I am also part of NUMFOCUS on multiple DISC projects.
 
 ### 👨‍🏫 Educator
 
@@ -57,6 +59,9 @@ Thank you for reading through this profile. I love collaborations, I am especial
 * StairwAI: Benchmarking platform for EU ML assets
 * AIonDemand: AI asset Marketplace 
 * LOTUS: AutoML for unsupervised tasks
+* Demand Forecasting for Kramphub warehousing
+* KRAMP-AI: AI Chatbot for kramphub internal documents
+* AutoML: Added automl capabilities to organisation wide teams.
 
 
 <!--
