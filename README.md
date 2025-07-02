@@ -23,7 +23,7 @@ Few engineering tools i use in my day2day:
 
 ### 📊 Data scientist/advocate
 
-Currently i work as a data scientist and sotware engineer at KrampHub. My job and hobby's entails looking at data and meta data to make tools, data can be used to tell stories and make better decisions. I am a huge advocate for Open Data and Responsible data science. Another reason i loved working [@OpenML](https://openml.org). I used to work in TolaData for data science for Monitoring and analytics for different NGOs. Personally I am looking for more opportunity to contribute to data science for soclial good and climate change.
+Currently i work as a data scientist at Microsoft. My job and hobby's entails looking at data and meta data to make tools, data can be used to tell stories and make better decisions. I am a huge advocate for Open Data and Responsible data science. Another reason i loved working [@OpenML](https://openml.org). I used to work in TolaData for data science for Monitoring and analytics for different NGOs. Personally I am looking for more opportunity to contribute to data science for soclial good and climate change.
 
 #### :man_scientist: Researcher
 
