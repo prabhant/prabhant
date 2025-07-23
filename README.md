@@ -62,6 +62,7 @@ Thank you for reading through this profile. I love collaborations, I am especial
 * Demand Forecasting for Kramphub warehousing
 * KRAMP-AI: AI Chatbot for kramphub internal documents
 * AutoML: Added automl capabilities to organisation wide teams.
+* Transferability estimation: Implemented transferability estiamtion in sugical setting, medical image classification and made a sensible benchmark for it
 
 
 <!--
